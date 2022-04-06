@@ -1,6 +1,6 @@
 package com.example.unresolvedreferencebug
 
-import kotlinx.coroutines.flow.Flow.asFlow
+import kotlinx.coroutines.flow.asFlow
 
 class Greeting {
     fun greeting(): String {
